@@ -46,5 +46,5 @@ Aqui estão algumas das tecnologias que utilizo nos meus projetos:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KleberSouzzaa&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberSouzzaa&layout=compact&langs_count=7&theme=dracula)
 
-![Streak Stats](https://streak-stats.demolab.com?user=KleberSouzzaa&theme=dracula)
+![Streak Stats](https://streak-stats.demolab.com/?user=KleberSouzzaa&theme=dracula&mode=weekly)
 
