@@ -4,7 +4,7 @@
     <em>🎓 Formado em Fabricação Mecânica | 💻 Estudante de Análise e Desenvolvimento de Sistemas</em>
   </p>
 
-  <a href="https://www.linkedin.com/in/klebersouzzaa/" target="_blank">
+  <a href="https://www.linkedin.com/in/kleber-souza-023965241/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/KleberSouzzaa" target="_blank">
