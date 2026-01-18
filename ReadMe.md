@@ -49,7 +49,6 @@ Aqui estão algumas das tecnologias que utilizo nos meus projetos:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KleberSouzzaa&theme=dracula" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=KleberSouzzaa&theme=dracula" alt="Streak Stats" />
 </div>
-
 ---
