@@ -48,7 +48,7 @@ Sou apaixonado por tecnologia, automação e desenvolvimento de software. Tenho 
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KleberSouzzaa&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberSouzzaa&layout=compact&langs_count=8&theme=dracula&v=1)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=KleberSouzzaa&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KleberSouzzaa&layout=compact&langs_count=8&theme=dracula)
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=KleberSouzzaa&theme=dracula&mode=weekly)
