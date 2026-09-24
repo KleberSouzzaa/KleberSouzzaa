@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Olá, eu sou o Kleber Souza! 👋</h2>
   <p>
-    <em>🎓 Formado em Fabricação Mecânica | 💻 Estudante de Análise e Desenvolvimento de Sistemas</em>
+    <em>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas | ⚙️ Formado em Fabricação Mecânica</em>
   </p>
 
   <a href="https://www.linkedin.com/in/kleber-souza-023965241/" target="_blank">
@@ -16,27 +16,32 @@
 
 ### 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e automação. Tenho background em **Mecânica**, o que me deu uma base sólida de lógica e processos, e hoje aplico isso no desenvolvimento de software.
+Sou apaixonado por tecnologia, automação e desenvolvimento de software. Tenho um background sólido na área de Metrologia e Qualidade, o que me proporcionou uma forte visão analítica e foco na resolução de problemas práticos — características que hoje aplico na criação de soluções eficientes em código.
 
-* 🔭 **Atualmente:** Focado em automação de processos (RPA) com **Python** e desenvolvimento Web.
-* 🌱 **Aprendendo:** Aprofundando conhecimentos em estruturas de dados e automação industrial via software.
-* 🎯 **Objetivo:** Buscando oportunidades como Estagiário ou Júnior na área de Desenvolvimento/TI.
+* 🔭 **Atualmente:** Atuando como Estagiário de Desenvolvimento Android na **FAAJ Tecnologia**.
+* 🌱 **Foco técnico:** Desenvolvimento Mobile Nativo (Kotlin & Jetpack Compose), além de integrações Backend (Node.js, Express, SQL) e automação (Python).
+* 💡 **Projetos em destaque:**
+  * **ObraMassa:** Aplicativo Android desenvolvido nativamente em Kotlin.
+  * **Kleber.AI:** Assistente web integrado com a API do Google Gemini, construído com Python e Streamlit.
+  * **Sentinela-CNC:** Sistema IoT para monitoramento de máquinas industriais, utilizando Raspberry Pi, sensores de corrente e backend em Python.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias que utilizo nos meus projetos:
-
 <div style="display: inline_block"><br>
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <!-- Backend & Data -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <!-- Frontend/Web -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </div>
 
 <br><br>
@@ -44,7 +49,6 @@ Aqui estão algumas das tecnologias que utilizo nos meus projetos:
 ### 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KleberSouzzaa&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberSouzzaa&layout=compact&langs_count=7&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberSouzzaa&layout=compact&langs_count=8&theme=dracula)
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=KleberSouzzaa&theme=dracula&mode=weekly)
-
